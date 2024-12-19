@@ -129,26 +129,6 @@ Elite Ethical Hacker is the culmination of your journey, focusing on cutting-edg
 
 ---
 
-## Resources and Communities
-
-### Online Learning Platforms
-- [TryHackMe](https://tryhackme.com/)
-- [Hack The Box](https://www.hackthebox.com/)
-- [Cybrary](https://www.cybrary.it/)
-- [Udemy](https://www.udemy.com/) (Cybersecurity courses)
-
-### Blogs and Forums
-- [Krebs on Security](https://krebsonsecurity.com/)
-- [Dark Reading](https://www.darkreading.com/)
-- [Reddit - r/netsec](https://www.reddit.com/r/netsec/)
-
-### Communities
-- Discord servers dedicated to cybersecurity (search on platforms like Reddit).
-- LinkedIn groups for ethical hacking and cybersecurity professionals.
-- GitHub repositories with practice labs and tools.
-
----
-
 ## Contributing
 
 We welcome contributions to improve this guide! Feel free to:

@@ -9,8 +9,13 @@ Welcome to **Hacking 101**—a comprehensive guide to help you on your journey t
 1. [About the Guide](#about-the-guide)
 2. [Getting Started](#getting-started)
 3. [Skill Levels](#skill-levels)
-4. [Contributing](#contributing)
-5. [License](#license)
+   - [Script Kiddie Start](#1-script-kiddie-start)
+   - [Rookie Recon](#2-rookie-recon)
+   - [Intermediate Intruder](#3-intermediate-intruder)
+   - [Advanced Operator](#4-advanced-operator)
+   - [Elite Ethical Hacker](#5-elite-ethical-hacker)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ---
 

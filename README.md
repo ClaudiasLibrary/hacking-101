@@ -14,6 +14,7 @@ Welcome to **Hacking 101**—a comprehensive guide to help you on your journey t
    - [Intermediate Intruder](#3-intermediate-intruder)
    - [Advanced Operator](#4-advanced-operator)
    - [Elite Ethical Hacker](#5-elite-ethical-hacker)
+   - [What's Next?](#whats-next)
 5. [Contributing](#contributing)
 6. [License](#license)
 
@@ -72,12 +73,11 @@ By adhering to ethical practices, you’ll build trust and credibility in the cy
 
 This guide is divided into five skill levels, each with specific learning objectives and detailed topics to learn:
 
-### 1. Script Kiddie Start
+### [1. Script Kiddie Start](https://github.com/ClaudiasLibrary/Hacking_101/tree/main/script_kiddie_start)
 
 **Start here if:**
 - Basic understanding of computer usage (e.g., file management, internet browsing).
 - Curiosity and willingness to explore.
-- Familiarity with basic terminal/command-line usage.
 - Interest in cybersecurity and networking fundamentals.
 - Access to a virtualized environment (e.g., VirtualBox, VMware).
 
@@ -131,6 +131,9 @@ At this level, you’ll move beyond basic penetration testing and develop advanc
 
 **Description:**
 Elite Ethical Hacker is the culmination of your journey, focusing on cutting-edge techniques and advanced concepts in ethical hacking. This level involves mastering the intricacies of red teaming, advanced exploit development, and strategic cybersecurity planning. You’ll also delve into compliance frameworks and industry best practices, equipping you to lead security initiatives and mentor others in the field.
+
+## What's Next?
+coming soon...
 
 ---
 

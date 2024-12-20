@@ -1,4 +1,4 @@
-# How to Become a Hacker
+# Hacking 101
 
 Welcome to **Hacking 101**—a comprehensive guide to help you on your journey to becoming an hacker. Whether you're a complete beginner or an aspiring expert, this repository is designed to guide you step by step through the skills, tools, and techniques needed to excel in cybersecurity.
 

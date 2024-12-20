@@ -6,17 +6,16 @@ Welcome to **Hacking 101**—a comprehensive guide to help you on your journey t
 
 ## Table of Contents
 
-1. [About the Guide](#about-the-guide)
-2. [Getting Started](#getting-started)
-3. [Skill Levels](#skill-levels)
+1. [Getting Started](#getting-started)
+2. [Skill Levels](#skill-levels)
    - [Script Kiddie Start](#1-script-kiddie-start)
    - [Rookie Recon](#2-rookie-recon)
    - [Intermediate Intruder](#3-intermediate-intruder)
    - [Advanced Operator](#4-advanced-operator)
    - [Elite Ethical Hacker](#5-elite-ethical-hacker)
    - [What's Next?](#whats-next)
-5. [Contributing](#contributing)
-6. [License](#license)
+3. [Contributing](#contributing)
+4. [License](#license)
 
 ---
 
@@ -41,7 +40,7 @@ A safe and controlled environment is essential for learning ethical hacking with
 ### 3. Build a Habit of Research
 Hacking requires continuous learning and staying updated. Develop the habit of researching vulnerabilities, tools, and techniques using trusted resources such as:
 
-- **Books**
+- [**Books**](books.md)
 - **Online Resources**
 - **Communities**
 

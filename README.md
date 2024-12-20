@@ -20,12 +20,6 @@ Welcome to **Hacking 101**—a comprehensive guide to help you on your journey t
 
 ---
 
-## About the Guide
-
-This repository is for anyone interested in ethical hacking and cybersecurity. Ethical hacking involves using the same tools and techniques as malicious hackers, but for good—helping organizations secure their systems and data. Here, you'll find a curated collection of learning paths, resources, and exercises.
-
----
-
 ## Getting Started
 
 To start your journey in ethical hacking, follow these steps:
@@ -44,21 +38,14 @@ A safe and controlled environment is essential for learning ethical hacking with
 - **Penetration Testing OS:** Download and set up [Kali Linux](https://www.kali.org/) or [Parrot OS](https://www.parrotsec.org/) for practicing ethical hacking.
 - **Secure Practice Platforms:** Create accounts on platforms like [Hack The Box](https://www.hackthebox.com/) and [TryHackMe](https://tryhackme.com/) for hands-on learning.
 
-### 3. Learn Essential Tools
-Start by learning how to use basic tools that are integral to ethical hacking:
+### 3. Build a Habit of Research
+Hacking requires continuous learning and staying updated. Develop the habit of researching vulnerabilities, tools, and techniques using trusted resources such as:
 
-- **Command-Line Interface (CLI):** Master fundamental Linux commands such as `ls`, `cd`, `grep`, and `chmod`.
-- **Networking Tools:** Get familiar with tools like `ping`, `traceroute`, and `netstat` to analyze networks.
-- **Penetration Testing Tools:** Install and explore Nmap (for scanning networks) and Wireshark (for analyzing network traffic).
+- **Books**
+- **Online Resources**
+- **Communities**
 
-### 4. Build a Habit of Research
-Ethical hacking requires continuous learning and staying updated. Develop the habit of researching vulnerabilities, tools, and techniques using trusted resources such as:
-
-- **Books:** "The Web Application Hacker's Handbook" and "Metasploit: The Penetration Tester's Guide."
-- **Online Resources:** Follow cybersecurity blogs, forums, and YouTube channels.
-- **Communities:** Join ethical hacking communities and forums like Reddit's r/NetSec and Discord groups.
-
-### 5. Commit to Ethical Practices
+### 4. Commit to Ethical Practices
 Ethical hacking comes with responsibility. Always ensure you:
 
 - Obtain proper authorization before testing any system.
@@ -82,7 +69,7 @@ This guide is divided into five skill levels, each with specific learning object
 - Access to a virtualized environment (e.g., VirtualBox, VMware).
 
 **Description:**
-This level is designed for absolute beginners who are curious about ethical hacking but have little to no prior experience in the field. The focus is on understanding the basics of how computers and the internet work, introducing essential tools, and fostering a hacker's mindset. You'll learn to navigate the command line, explore simple network tools, and set up a safe practice environment to experiment without risks.
+This level is designed for absolute beginners who are curious about hacking but have little to no prior experience in the field. The focus is on understanding the basics of how computers and the internet work, introducing essential tools, and fostering a hacker's mindset. You'll learn to navigate the command line, explore simple network tools, and set up a safe practice environment to experiment without risks.
 
 ### 2. Rookie Recon
 

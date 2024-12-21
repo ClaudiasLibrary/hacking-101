@@ -119,7 +119,7 @@ At this level, you’ll move beyond basic penetration testing and develop advanc
 Elite Ethical Hacker is the culmination of your journey, focusing on cutting-edge techniques and advanced concepts in ethical hacking. This level involves mastering the intricacies of red teaming, advanced exploit development, and strategic cybersecurity planning. You’ll also delve into compliance frameworks and industry best practices, equipping you to lead security initiatives and mentor others in the field.
 
 ## What's Next?
-coming soon...
+Stay up to date with the latest Cyber Security breaches and news, follow blogs, conventions, social media, etc...
 
 ---
 

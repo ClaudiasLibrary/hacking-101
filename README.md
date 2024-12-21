@@ -59,7 +59,7 @@ By adhering to ethical practices, you’ll build trust and credibility in the cy
 
 This guide is divided into five skill levels, each with specific learning objectives and detailed topics to learn:
 
-### [1. Script Kiddie Start](https://github.com/ClaudiasLibrary/Hacking_101/tree/main/script_kiddie_start)
+### [1. Script Kiddie Start](script_kiddie_start)
 
 **Start here if:**
 - Basic understanding of computer usage (e.g., file management, internet browsing).
@@ -70,7 +70,7 @@ This guide is divided into five skill levels, each with specific learning object
 **Description:**
 This level is designed for absolute beginners who are curious about hacking but have little to no prior experience in the field. The focus is on understanding the basics of how computers and the internet work, introducing essential tools, and fostering a hacker's mindset. You'll learn to navigate the command line, explore simple network tools, and set up a safe practice environment to experiment without risks.
 
-### 2. Rookie Recon
+### [2. Rookie Recon](rookie_recon)
 
 **Start here if:**
 - Completion of Script Kiddie Start or equivalent knowledge.
@@ -82,7 +82,7 @@ This level is designed for absolute beginners who are curious about hacking but 
 **Description:**
 Rookie Recon introduces you to the critical skill of information gathering, or reconnaissance, which forms the foundation for ethical hacking. This level focuses on understanding the target environment, identifying potential entry points, and leveraging tools to gather detailed information about systems and networks.
 
-### 3. Intermediate Intruder
+### [3. Intermediate Intruder](intermediate_intruder)
 
 **Start here if:**
 - Understanding of basic reconnaissance techniques.
@@ -94,7 +94,7 @@ Rookie Recon introduces you to the critical skill of information gathering, or r
 **Description:**
 This level transitions you from reconnaissance to actively testing and exploiting system vulnerabilities. The focus is on ethical intrusion techniques, where you'll learn to think like an attacker while maintaining responsible and legal practices. You'll gain hands-on experience using tools and techniques to identify and exploit vulnerabilities in controlled environments.
 
-### 4. Advanced Operator
+### [4. Advanced Operator](advanced_operator)
 
 **Start here if:**
 - Proficiency in ethical hacking basics and vulnerability exploitation.
@@ -106,7 +106,7 @@ This level transitions you from reconnaissance to actively testing and exploitin
 **Description:**
 At this level, you’ll move beyond basic penetration testing and develop advanced skills to tackle sophisticated defenses and countermeasures. You’ll learn techniques for bypassing firewalls, intrusion detection systems, and antivirus software. The focus will be on advanced exploitation methods, post-exploitation techniques, and understanding how attackers maintain persistence within systems.
 
-### 5. Elite Ethical Hacker
+### [5. Elite Ethical Hacker](elite_ethical_hacker)
 
 **Start here if:**
 - Extensive experience with penetration testing tools and techniques.

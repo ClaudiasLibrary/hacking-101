@@ -41,7 +41,7 @@ A safe and controlled environment is essential for learning ethical hacking with
 Hacking requires continuous learning and staying updated. Develop the habit of researching vulnerabilities, tools, and techniques using trusted resources such as:
 
 - [**Books**](books.md)
-- **Online Resources**
+- [**Online Resources**](online_resources.md)
 - **Communities**
 
 ### 4. Commit to Ethical Practices

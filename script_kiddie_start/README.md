@@ -60,7 +60,7 @@ Understanding basic computer skills is essential for navigating and troubleshoot
    - Understanding the purpose of virtual machines.
    - Creating snapshots and restoring virtual machine states.
 
-[## 2. Internet Basics](https://claudiaslibrary.notion.site/Internet-12b19f75683280f99799d186bea1d02d)
+## [2. Internet Basics](https://claudiaslibrary.notion.site/Internet-12b19f75683280f99799d186bea1d02d)
 
 Mastering the fundamentals of how the internet operates is crucial for understanding cybersecurity principles. This section covers the key concepts that enable secure and effective communication over networks.
 
@@ -116,7 +116,7 @@ Mastering the fundamentals of how the internet operates is crucial for understan
    - Learning about common cloud providers (e.g., AWS, Azure, Google Cloud) and their network configurations.
    - Recognizing potential security challenges in cloud environments.
 
-[## 3. Linux Fundamentals]((https://claudiaslibrary.notion.site/Linux-Basics-12c19f75683280738939fd672d9d7f62))
+## [3. Linux Fundamentals]((https://claudiaslibrary.notion.site/Linux-Basics-12c19f75683280738939fd672d9d7f62))
 
 Linux is a cornerstone of the cybersecurity world. Learning its basics will prepare you for system administration, scripting, and ethical hacking tasks.
 
@@ -167,7 +167,7 @@ Linux is a cornerstone of the cybersecurity world. Learning its basics will prep
 
 By understanding Linux fundamentals, you will build a strong foundation for tackling more complex cybersecurity challenges.
 
-[## 4. Networking Basics:]((https://claudiaslibrary.notion.site/Internet-12b19f75683280f99799d186bea1d02d))
+## [4. Networking Basics:]((https://claudiaslibrary.notion.site/Internet-12b19f75683280f99799d186bea1d02d))
 
 Understanding networking fundamentals is essential for grasping how devices communicate and how networks are structured. This section covers the basic building blocks of networking.
 
@@ -241,7 +241,7 @@ Understanding networking fundamentals is essential for grasping how devices comm
     
 By grasping these foundational networking concepts, you will gain a solid understanding of how networks operate and how to secure them against common threats.
 
-[## 5. Cybersecurity Basics:](https://claudiaslibrary.notion.site/Intro-to-Cybersecurity-Careers-12b19f75683280549e00f0c49c170d37)
+## [5. Cybersecurity Basics:](https://claudiaslibrary.notion.site/Intro-to-Cybersecurity-Careers-12b19f75683280549e00f0c49c170d37)
 
 Understanding cybersecurity fundamentals is critical for protecting systems, networks, and data from unauthorized access, attacks, and damage. This section covers the foundational principles of cybersecurity.
 
@@ -403,7 +403,7 @@ Ethical hacking is a critical practice in cybersecurity, where professionals use
 
 By understanding and applying these ethical hacking principles, you can contribute to enhancing the security of systems and networks while adhering to legal, ethical, and professional standards.
 
-[## 7. Tools for Beginners](https://claudiaslibrary.notion.site/Tools-12c19f75683280b08eedc4843dd134e7)
+## [7. Tools for Beginners](https://claudiaslibrary.notion.site/Tools-12c19f75683280b08eedc4843dd134e7)
 
 For beginners in cybersecurity and ethical hacking, it’s essential to get familiar with the tools that form the foundation of security testing and system analysis. These tools are widely used in the industry for learning, practicing, and conducting real-world assessments.  
 
@@ -554,7 +554,7 @@ Scripting is a crucial skill in cybersecurity and ethical hacking. It allows you
 
 By learning scripting, you’ll gain the ability to customize tools and processes, making you a more effective and efficient cybersecurity professional. As you advance, you can explore advanced topics like malware analysis, reverse engineering, and exploit development using scripting.  
 
-[## 9. Cyber Hygiene Practices](https://claudiaslibrary.notion.site/Security-Awareness-12c19f75683280caa4acc0f762e143ab)
+## [9. Cyber Hygiene Practices](https://claudiaslibrary.notion.site/Security-Awareness-12c19f75683280caa4acc0f762e143ab)
 
 Cyber hygiene refers to the routine practices and measures individuals and organizations can adopt to protect their digital environments. By maintaining good cyber hygiene, you can reduce the risk of breaches and ensure the integrity of your systems and data.  
 

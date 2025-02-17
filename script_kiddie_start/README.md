@@ -116,7 +116,7 @@ Mastering the fundamentals of how the internet operates is crucial for understan
    - Learning about common cloud providers (e.g., AWS, Azure, Google Cloud) and their network configurations.
    - Recognizing potential security challenges in cloud environments.
 
-## [3. Linux Fundamentals]((https://claudiaslibrary.notion.site/Linux-Basics-12c19f75683280738939fd672d9d7f62))
+## [3. Linux Fundamentals](https://claudiaslibrary.notion.site/Linux-Basics-12c19f75683280738939fd672d9d7f62)
 
 Linux is a cornerstone of the cybersecurity world. Learning its basics will prepare you for system administration, scripting, and ethical hacking tasks.
 
@@ -167,7 +167,7 @@ Linux is a cornerstone of the cybersecurity world. Learning its basics will prep
 
 By understanding Linux fundamentals, you will build a strong foundation for tackling more complex cybersecurity challenges.
 
-## [4. Networking Basics:]((https://claudiaslibrary.notion.site/Internet-12b19f75683280f99799d186bea1d02d))
+## [4. Networking Basics:](https://claudiaslibrary.notion.site/Internet-12b19f75683280f99799d186bea1d02d)
 
 Understanding networking fundamentals is essential for grasping how devices communicate and how networks are structured. This section covers the basic building blocks of networking.
 

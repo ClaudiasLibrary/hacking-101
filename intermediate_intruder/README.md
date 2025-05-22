@@ -22,7 +22,7 @@ In this phase, we move from passive recon into active probing, vulnerability ide
 
 ---
 
-## 🧱 2. Service Enumeration
+## 🧱 [2. Service Enumeration](https://claudiaslibrary.notion.site/Enumeration-13219f75683280b1ad52fd9bfcb7367f)
 
 ### Common Services
 - **SMB**: `enum4linux`, `smbclient`, `smbmap`
@@ -35,7 +35,7 @@ In this phase, we move from passive recon into active probing, vulnerability ide
 
 ---
 
-## 🔍 3. Vulnerability Scanning
+## 🔍 [3. Vulnerability Scanning](https://claudiaslibrary.notion.site/Vulnerability-Scans-13219f7568328026a09bfc4a099fddd7)
 
 ### Tools to Introduce
 - [`Nessus`](https://www.tenable.com/products/nessus)
@@ -84,7 +84,7 @@ In this phase, we move from passive recon into active probing, vulnerability ide
 
 ---
 
-## 🕸️ 6. Web App Security – Basics
+## 🕸️ [6. Web App Security – Basics](https://claudiaslibrary.notion.site/Web-Applications-Vulnerabilities-12b19f756832801f9e2dd32a86bd628b)
 
 ### Introduce OWASP Top 10
 - A01: Broken Access Control

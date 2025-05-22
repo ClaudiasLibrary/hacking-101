@@ -1,6 +1,6 @@
 # Intermediate Intruder
 
-<img src="https://cdn-cf.ginx.tv/imgcdn/g3RwjOlZ-iZ8J6tuI4USf55jmOeqhCLMpPr-aFcZa-w/rs:fill:2400:0:1/g:ce/aHR0cHM6Ly93d3cuZ2lueC50di91cGxvYWRzL05ld0ZvbGRlci9DeWJlcnB1bmtfMjA3N19OZXRydW5uZXJfYnVpbGQvY3liZXJwdW5rXzIwNzdfbmV0cnVubmVyX2NvdmVyLmpwZw" alt="cyberpunk" width="500" height="300">
+<img src="https://cdn-cf.ginx.tv/imgcdn/g3RwjOlZ-iZ8J6tuI4USf55jmOeqhCLMpPr-aFcZa-w/rs:fill:2400:0:1/g:ce/aHR0cHM6Ly93d3cuZ2lueC50di91cGxvYWRzL05ld0ZvbGRlci9DeWJlcnB1bmtfMjA3N19OZXRydW5uZXJfYnVpbGQvY3liZXJwdW5rXzIwNzdfbmV0cnVubmVyX2NvdmVyLmpwZw" alt="cyberpunk" width="550" height="300">
 
 **Welcome to Level 3: Intermediate Intruder**  
 In this phase, we move from passive recon into active probing, vulnerability identification, and even basic exploitation. You now know what your target looks like — it's time to see how it holds up.

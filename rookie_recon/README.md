@@ -1,4 +1,4 @@
-# 🧭 Rookie Recon
+# Rookie Recon
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdwallpapers.in%2Fdownload%2Fsombra_overwatch_artwork_4k-2560x1440.jpg&f=1&nofb=1&ipt=ea32ef789d7b645ce58b1517b20fa9f807f2cc0bd8a5bf8d629eeb88c824c3e3" alt="sombra" width="500" height="300">
 

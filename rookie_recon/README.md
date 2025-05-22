@@ -96,6 +96,7 @@ This phase focuses on *reconnaissance* — the art of gathering information abou
 ---
 
 ## 📚 8. Resources & Further Learning
+- [SOCMIntelligence](https://github.com/ClaudiasLibrary/SOCMIntelligence)
 - [OSINT Framework](https://osintframework.com/)
 - [Awesome-OSINT GitHub List](https://github.com/jivoi/awesome-osint)
 - [Pentest Bookmarks (by PayloadAllTheThings)](https://github.com/swisskyrepo/PayloadsAllTheThings)

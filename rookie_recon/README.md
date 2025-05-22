@@ -7,7 +7,7 @@ This phase focuses on *reconnaissance* — the art of gathering information abou
 
 ---
 
-## 🌐 1. OSINT Basics (Open Source Intelligence)
+## 🌐 [1. OSINT Basics (Open Source Intelligence)](https://claudiaslibrary.notion.site/OSINT-12c19f756832804ab975c4a01cfbdbfb)
 - What is OSINT?
 - Why reconnaissance matters in ethical hacking
 - Legal & ethical considerations
@@ -16,7 +16,7 @@ This phase focuses on *reconnaissance* — the art of gathering information abou
 
 ---
 
-## 🔎 2. Domain & Network Reconnaissance
+## 🔎 [2. Domain & Network Reconnaissance](https://claudiaslibrary.notion.site/DNS-Lookups-12e19f756832806187beea71bcf4e4d6)
 ### WHOIS Lookups
 - Understand domain registration info
 - Tools:
@@ -40,7 +40,7 @@ This phase focuses on *reconnaissance* — the art of gathering information abou
 
 ---
 
-## 🗺️ 3. Host & Network Scanning
+## 🗺️ [3. Host & Network Scanning](https://claudiaslibrary.notion.site/Nmap-13219f75683280f9b8e5de02ed1090f2)
 ### Nmap Basics
 - Port scanning: TCP vs UDP
 - Service detection (`-sV`)

@@ -94,3 +94,10 @@ This phase focuses on *reconnaissance* — the art of gathering information abou
 - 🕵️‍♀️ CTFs (e.g. OSINT Dojo, Trace Labs)
 
 ---
+
+## 📚 8. Resources & Further Learning
+- [OSINT Framework](https://osintframework.com/)
+- [Awesome-OSINT GitHub List](https://github.com/jivoi/awesome-osint)
+- [Pentest Bookmarks (by PayloadAllTheThings)](https://github.com/swisskyrepo/PayloadsAllTheThings)
+
+---
